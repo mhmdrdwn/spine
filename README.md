@@ -9,7 +9,7 @@ In this report, we will use machine learning models for classification lower bac
 | Model                 | Accuracy    | F1     | Precision   | Recall |
 | --------------------- |:-----------:|:------:|:-----------:|:------:|
 | Logistic Regression   |  0.863      |  0.841 |      0.847  | 0.835  |
-| Random Forest         |  0.882      |  0.863 | 0.87        | 0.858  |
+| Random Forest         |  **0.882**  | **0.863** | **0.87** | **0.858**  |
 | Decision Tree         |  0.794      |  0.762 | 0.765       | 0.761  |
 | Support Vector Machine|  0.863      |  0.841 | 0.847       | 0.835  |
 | Multilayer Perceptron |  0.863      |  0.846 | 0.841       | 0.851  |
