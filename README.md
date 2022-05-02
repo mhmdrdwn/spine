@@ -10,7 +10,7 @@ In this report, we will use machine learning models for classification lower bac
 | --------------------- |:-----------:|:------:|:-----------:|:------:|
 | Logistic Regression   |  0.863      |  0.841 |      0.847  | 0.835  |
 | Random Forest         |  **0.892**  | **0.874** | **0.885** | **0.865**  |
-| Decision Tree         |  0.863      |  0.846 | 0.841       | 0.851  |
+| XGBoost               |  0.863      |  0.846 | 0.841       | 0.851  |
 | Decision Tree         |  0.775      |  0.744 | 0.743       | 0.746  |
 | Support Vector Machine|  0.863      |  0.841 | 0.847       | 0.835  |
 | Multilayer Perceptron |  0.882      |  0.866 | 0.865       | 0.866  |
